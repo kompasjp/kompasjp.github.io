@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kompasjp.github.io/sitemap.xml
